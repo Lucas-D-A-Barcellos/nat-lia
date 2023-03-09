@@ -1,5 +1,5 @@
 body {
-	background: url("imagens/flores.jpg");
+	background: url("flores.jpg");
 	font-family: Times, Times New Roman, serif;
 	text-align: center;
 }
@@ -9,7 +9,7 @@ body {
 	width: 500px;
   	margin: 300px auto;
   	border-radius: 15px;
-  	background-image: url("imagens/borda.png") no-repeat center;
+  	background-image: url("borda.png") no-repeat center;
   	padding: 5px;
 
 }
