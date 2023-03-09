@@ -1,0 +1,59 @@
+body {
+	background: url("imagens/flores.jpg");
+	font-family: Times, Times New Roman, serif;
+	text-align: center;
+}
+
+.formulario{
+	background: #ede1d8;
+	width: 500px;
+  	margin: 300px auto;
+  	border-radius: 15px;
+  	background-image: url("imagens/borda.png") no-repeat center;
+  	padding: 5px;
+
+}
+
+.caixa{
+	
+	padding: 10px;
+	margin: 10px;
+}
+
+.amor{
+	background: #a786ba;
+	
+}
+
+label{
+	font-size: 1.2em;
+	padding: 5px;
+	margin: 5px;
+}
+
+input{
+	padding: 5px;
+	margin: 10px;
+	width: 150px;
+}
+
+h2{
+	font-family: Times, Times New Roman, serif;
+}
+h1{
+	font-family: Times, Times New Roman, serif;
+}
+
+a {
+	text-decoration: none;
+	background: white;
+	color: black;
+	padding: 7.5px;
+	border-radius: 5px;
+
+}
+
+a:hover{
+	color: white;
+	background: red;
+}
